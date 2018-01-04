@@ -1,0 +1,1 @@
+CURRENT_EVENT = '2017dar'

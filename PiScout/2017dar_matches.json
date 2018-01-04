@@ -1,0 +1,789 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+
+	<head><script type="text/javascript" src="/common/js/marriottCommon.js"> </script>
+		
+	
+	
+	
+		
+		
+		
+		
+		
+	
+	
+	
+	
+		
+		
+	
+	<title>Marriott – Sign in to property Internet</title>
+	
+	<meta name="DESCRIPTION" content="" />
+	<meta name="KEYWORDS" content="" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+	<link type="text/css" rel="stylesheet" href="/common/css/base/reset.css" />
+	<link type="text/css" rel="stylesheet" href="/common/css/rcss/mfpmodal.css" />
+	<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='513F4ACCB654C9B4BEA80AF19C56D163';JAWR.app_context_path='';</script>
+<link rel="stylesheet" type="text/css" media="screen" href="/miCSSPath/1971907094/common/css/hsia/r3/hsia.css" />
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/miCSSPath/N1167695289/common/css/hsia/r3/hsia-ri.css" />
+
+	
+		<link rel="stylesheet" type="text/css" media="screen and (max-width: 700px)" href="/miCSSPath/N826385300/common/css/hsia/r3/hsia-tablet.css" />
+
+	
+	<link rel="stylesheet" type="text/css" media="screen and (max-width: 570px)" href="/miCSSPath/N770087727/common/css/hsia/r3/hsia-mobile.css" />
+
+	
+	<link rel="stylesheet" type="text/css" media="screen and (max-width: 570px)" href="/miCSSPath/N766231174/common/css/hsia/r3/hsia-mobile-ri.css" />
+
+	
+	<!-- TIMESTAMP="Fri Apr 28 22:14:32 EDT 2017" JVMID="pEbizMdcom8D243_prd2" -->
+	<script type="text/javascript" src="/common/js/libs/jquery-1.7.1/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="/common/js/libs/plugins/jquery/magnificPopup/maginficPopup.js"></script>
+	<script type="text/javascript" src="/common/js/hsia/hsia.js"></script>
+	</head>
+	</html>
+
+<body class="page-grid-i">
+	<div id="page-container" data-options='{"marshaCode":"stlrd", "iReleaseVersion":"3"}'>
+		
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+<div id="header" class="clearfix">
+<p>
+		
+			
+			
+				
+				
+				
+				
+					<img id="brand-logo-img" alt="Residence Inn offers high-speed Internet access based on your needs" src="https://cache.marriott.com/Images/flexiblepricing/RI_logo.png"/>
+				
+				<img id="mobile-brand-logo-img" alt="Residence Inn offers high-speed Internet access based on your needs" src="https://cache.marriott.com/Images/flexiblepricing/RI_mobile_logo.png"/>
+			
+		
+	</p>
+	
+		<div id="address">
+			<p id="location" itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address">
+				<span itemprop="streetAddress">525 S. Jefferson Avenue,</span>
+				<span itemprop="addressLocality">St. Louis,</span>
+				<span itemprop="addressRegion">Missouri</span>
+				<span itemprop="postalCode">63103</span>
+				<span itemprop="addressCountry">USA</span>
+			</p>
+			<p class="address">Residence Inn St. Louis Downtown</p>
+			
+		</div>
+	
+
+	
+ 	
+
+
+
+
+
+
+
+
+
+	<!-- Determin which env namespace to use in the bootstrap call based page URL -->
+		
+	
+		
+			
+		
+		
+		
+	
+
+	
+		
+		
+		
+		
+			<script src="https://nexus.ensighten.com/marriott/prod/Bootstrap.js"></script>
+		
+	
+
+
+	
+</div>
+
+		
+		
+		
+		<div id="layout-container" role="main" class="clearfix">
+			
+				
+				
+				   						
+				
+					
+					
+						
+						
+						
+							
+								
+								
+									<h1>A connection that can keep up with you.</h1>
+								
+							
+							<div id="layout-content" class="clearfix">
+							<ul id="internet-options">
+									
+								
+								
+								
+									
+										
+											
+											
+										
+										
+									
+									
+									<li id="option1" class="options">								
+										<form id="price-plan-form-1" class="price-plan-form" action="https://www.ethostream.com/CentralAuth/marriottv3/?url=&ip=172.20.6.180&iface=vlan1000&mac=40%3A25%3Ac2%3Aca%3A5d%3A90&siteid=56942&portal=&at=marriottv3&ad=1440&authandconnect=1" method="POST">
+										    																								
+												<input type="hidden" name="DURATION" value="7" />
+												<input type="hidden" name="SELECTED_PLAN_PRICE" value="0.00" />												
+											 												 
+											
+											<input type="hidden" name="SELECTED_PLAN" value="P_PLAN1" />
+											<input type="hidden" name="PROPERTY_CODE" value="STLRD" />
+											<input type="hidden" name="iZONE" value="GUEST" />
+											<input type="hidden" name="iRELEASE" value="3" />
+											<input type="hidden" name="SELECTED_PLAN_TEXT" value="high speed internet" />
+											<input type="hidden" name="AUTH_ON_FREE" value="FALSE" />                                       
+											<h2>high speed internet</h2>												
+											<ul class="tier-description">
+													
+														<li class="price-plan-description"><em>email</em></li>
+													
+														<li class="price-plan-description"><em>connect to social networks</em></li>
+													
+														<li class="price-plan-description"><em>surf the web</em></li>
+													
+												
+												
+													
+													
+												
+											</ul>
+											<div class="price-list hr-top">
+												<p id="tier-1-price-1">
+													
+														
+															<em>free</em>
+					.									
+														
+													
+												</p>
+											</div>
+											<div class="duration-list hr-top">
+												<p id="tier-1-duration-1">
+													<span>
+														duration:
+													</span>
+													
+														
+															<span>
+																length of your stay
+															</span>
+														
+														
+													
+												</p>
+											</div>									
+											<button class="tier-select-click-tracking" data-options='{"price":"0.00","name":"Tier1"}' type="submit"> 
+												<em>
+													
+														
+															connect for free
+														
+														
+													
+												</em>
+											</button>
+											<input type="hidden" name="LSP_URL" value="https://www.ethostream.com/CentralAuth/marriottv3/?url=&amp;ip=172.20.6.180&amp;iface=vlan1000&amp;mac=40%3A25%3Ac2%3Aca%3A5d%3A90&amp;siteid=56942&amp;portal=&amp;at=marriottv3&amp;ad=1440&amp;authandconnect=1" />																	    
+										</form>	
+									</li>
+																	
+										
+									
+									
+								
+									
+										
+										
+											
+										
+									
+									
+									<li id="option2" class="options">								
+										<form id="price-plan-form-2" class="price-plan-form" action="/einterface/hsiaAuthenticateV3.mi" method="POST">
+										     												 
+											
+											<input type="hidden" name="SELECTED_PLAN" value="P_PLAN2" />
+											<input type="hidden" name="PROPERTY_CODE" value="STLRD" />
+											<input type="hidden" name="iZONE" value="GUEST" />
+											<input type="hidden" name="iRELEASE" value="3" />
+											<input type="hidden" name="SELECTED_PLAN_TEXT" value="enhanced high speed internet" />
+											<input type="hidden" name="AUTH_ON_FREE" value="FALSE" />                                       
+											<h2>enhanced high speed internet</h2>												
+											<ul class="tier-description">
+													
+														<li class="price-plan-description"><em>video chat</em></li>
+													
+														<li class="price-plan-description"><em>stream music & video</em></li>
+													
+														<li class="price-plan-description"><em>up to 3x faster</em></li>
+													
+												
+												
+													
+														<li class="price-plan-description t-last is-visible-mm">
+															<em>free for Gold & Platinum Elite members*</em>
+														</li>
+													
+													
+												
+											</ul>
+											<div class="price-list hr-top">
+												<p id="tier-2-price-1">
+													
+														
+														
+															<em>4.95&nbsp;(USD)&nbsp;/&nbsp;day</em>
+														
+													
+												</p>
+											</div>
+											<div class="duration-list hr-top">
+												<p id="tier-2-duration-1">
+													<span>
+														duration:
+													</span>
+													
+														
+														
+	                                   						<select name="DURATION" >
+				
+		   	   		<option value="1">1 day</option>
+				
+		   	   		<option value="2">2 days</option>
+				
+		   	   		<option value="3">3 days</option>
+				
+		   	   		<option value="4">4 days</option>
+				
+		   	   		<option value="5">5 days</option>
+				
+		   	   		<option value="6">6 days</option>
+				
+		   	   		<option value="7">7 days</option>
+				
+		   	   		<option value="8">8 days</option>
+				
+		   	   		<option value="9">9 days</option>
+				
+		   	   		<option value="10">10 days</option>
+				
+		   	   		<option value="11">11 days</option>
+				
+		   	   		<option value="12">12 days</option>
+				
+		   	   		<option value="13">13 days</option>
+				
+		   	   		<option value="14">14 days</option>
+				
+		   	   		<option value="15">15 days</option>
+				
+		   	   		<option value="16">16 days</option>
+				
+		   	   		<option value="17">17 days</option>
+				
+		   	   		<option value="18">18 days</option>
+				
+		   	   		<option value="19">19 days</option>
+				
+		   	   		<option value="20">20 days</option>
+				
+		   	   		<option value="21">21 days</option>
+				
+		   	   		<option value="22">22 days</option>
+				
+		   	   		<option value="23">23 days</option>
+				
+		   	   		<option value="24">24 days</option>
+				
+		   	   		<option value="25">25 days</option>
+				
+		   	   		<option value="26">26 days</option>
+				
+		   	   		<option value="27">27 days</option>
+				
+		   	   		<option value="28">28 days</option>
+				
+		   	   		<option value="29">29 days</option>
+				
+		   	   		<option value="30">30 days</option>
+				
+		   	   		<option value="31">31 days</option>
+				
+			</select>
+														
+													
+												</p>
+											</div>									
+											<button class="tier-select-click-tracking" data-options='{"price":"4.95","name":"Tier2"}' type="submit"> 
+												<em>
+													
+														
+														
+															select
+														
+													
+												</em>
+											</button>
+											<input type="hidden" name="LSP_URL" value="https://www.ethostream.com/CentralAuth/marriottv3/?url=&amp;ip=172.20.6.180&amp;iface=vlan1000&amp;mac=40%3A25%3Ac2%3Aca%3A5d%3A90&amp;siteid=56942&amp;portal=&amp;at=marriottv3&amp;ad=1440&amp;authandconnect=1" />																	    
+										</form>	
+									</li>
+									
+																	
+										
+									
+													
+							</ul>
+							</div>
+							<div id="option3" class="options-link">
+								<span>- or -&nbsp;&nbsp;connect with an</span>
+								<em>
+									<a class="access-code-click-tracking" href="/einterface/hsiaAuthenticateV3.mi?PROPERTY_CODE=STLRD&iZONE=GUEST&iRELEASE=3&AUTH_ON_FREE=FALSE&SCREEN_ID=SC_ACCESS_CODE&ACCESS_CODE=TRUE&LSP_URL=https%3A%2F%2Fwww.ethostream.com%2FCentralAuth%2Fmarriottv3%2F%3Furl%3D%26ip%3D172.20.6.180%26iface%3Dvlan1000%26mac%3D40%253A25%253Ac2%253Aca%253A5d%253A90%26siteid%3D56942%26portal%3D%26at%3Dmarriottv3%26ad%3D1440%26authandconnect%3D1">
+										access code
+									</a>
+								</em>
+							</div>
+							
+								<div id="option4" class="options-link">
+									<span>
+										already purchased?
+									</span>
+									<em>
+										<a class="add-device-click-tracking" href="/einterface/hsiaAuthenticateV3.mi?PROPERTY_CODE=STLRD&iZONE=GUEST&iRELEASE=3&AUTH_ON_FREE=FALSE&SCREEN_ID=SC_SIGNIN&ADD_DEVICE=TRUE&LSP_URL=https%3A%2F%2Fwww.ethostream.com%2FCentralAuth%2Fmarriottv3%2F%3Furl%3D%26ip%3D172.20.6.180%26iface%3Dvlan1000%26mac%3D40%253A25%253Ac2%253Aca%253A5d%253A90%26siteid%3D56942%26portal%3D%26at%3Dmarriottv3%26ad%3D1440%26authandconnect%3D1">add a device</a> to your connection
+									</em>
+									
+								</div>		
+							
+							
+						        
+									
+										
+										
+									
+									
+						        
+								<div id="m-option1" class="options-link">
+									<a>
+										<em>high speed internet</em> 
+									</a>
+									<div id="mobile-daily-price-box-1" class="mobile-daily-price daily-price">
+										
+											
+												<em>
+												free
+												</em>
+											
+											
+										
+									</div>
+									<form id="mobile-price-plan-form-1" class="mobile-price-plan-form price-plan-form" action="https://www.ethostream.com/CentralAuth/marriottv3/?url=&ip=172.20.6.180&iface=vlan1000&mac=40%3A25%3Ac2%3Aca%3A5d%3A90&siteid=56942&portal=&at=marriottv3&ad=1440&authandconnect=1" method="post">
+										
+											<input type="hidden" name="DURATION" value="7" />
+											<input type="hidden" name="SELECTED_PLAN_PRICE" value="0.00" />											
+										
+										
+										<input type="hidden" name="SELECTED_PLAN" value="P_PLAN1" />
+										<input type="hidden" name="PROPERTY_CODE" value="STLRD" />
+										<input type="hidden" name="iZONE" value="GUEST" />                                   
+	                                    <input type="hidden" name="iRELEASE" value="3" />
+	                                    <input type="hidden" name="SELECTED_PLAN_TEXT" value="high speed internet" />
+	                                    <input type="hidden" name="AUTH_ON_FREE" value="FALSE" />                                    
+										
+										
+										<div id="mobile-price-box-1" class="mobile-price-box">
+											<hr></hr>
+											<span>
+											duration:
+											</span>
+											
+												
+													<span>
+													length of your stay
+													</span>
+												
+												
+											
+										</div>
+										<div id="mobile-submit-box-1" class="mobile-plan-submit-box">
+											<button class="tier-select-click-tracking" data-options='{"price":"0.00","name":"Tier1"}' type="submit"> 
+												<em>
+												
+													
+														connect for free
+													
+													
+												
+												</em>
+											</button>			
+										</div>
+										<input type="hidden" name="LSP_URL" value="https://www.ethostream.com/CentralAuth/marriottv3/?url=&amp;ip=172.20.6.180&amp;iface=vlan1000&amp;mac=40%3A25%3Ac2%3Aca%3A5d%3A90&amp;siteid=56942&amp;portal=&amp;at=marriottv3&amp;ad=1440&amp;authandconnect=1" />											
+									</form>
+								</div>
+							
+						        
+									
+									
+										
+									
+						        
+								<div id="m-option2" class="options-link">
+									<a>
+										<em>enhanced high speed internet</em> 
+									</a>
+									<div id="mobile-daily-price-box-2" class="mobile-daily-price daily-price">
+										
+											
+											
+												<em class="line-wrapper">
+													4.95&nbsp;(USD)&nbsp;/&nbsp;day
+												</em>
+											
+										
+									</div>
+									<form id="mobile-price-plan-form-2" class="mobile-price-plan-form price-plan-form" action="/einterface/hsiaAuthenticateV3.mi" method="post">
+										
+										
+										<input type="hidden" name="SELECTED_PLAN" value="P_PLAN2" />
+										<input type="hidden" name="PROPERTY_CODE" value="STLRD" />
+										<input type="hidden" name="iZONE" value="GUEST" />                                   
+	                                    <input type="hidden" name="iRELEASE" value="3" />
+	                                    <input type="hidden" name="SELECTED_PLAN_TEXT" value="enhanced high speed internet" />
+	                                    <input type="hidden" name="AUTH_ON_FREE" value="FALSE" />                                    
+										
+										
+										<div id="mobile-price-box-2" class="mobile-price-box">
+											<hr></hr>
+											<span>
+											duration:
+											</span>
+											
+												
+												
+													<select name="DURATION" >
+				
+		   	   		<option value="1">1 day</option>
+				
+		   	   		<option value="2">2 days</option>
+				
+		   	   		<option value="3">3 days</option>
+				
+		   	   		<option value="4">4 days</option>
+				
+		   	   		<option value="5">5 days</option>
+				
+		   	   		<option value="6">6 days</option>
+				
+		   	   		<option value="7">7 days</option>
+				
+		   	   		<option value="8">8 days</option>
+				
+		   	   		<option value="9">9 days</option>
+				
+		   	   		<option value="10">10 days</option>
+				
+		   	   		<option value="11">11 days</option>
+				
+		   	   		<option value="12">12 days</option>
+				
+		   	   		<option value="13">13 days</option>
+				
+		   	   		<option value="14">14 days</option>
+				
+		   	   		<option value="15">15 days</option>
+				
+		   	   		<option value="16">16 days</option>
+				
+		   	   		<option value="17">17 days</option>
+				
+		   	   		<option value="18">18 days</option>
+				
+		   	   		<option value="19">19 days</option>
+				
+		   	   		<option value="20">20 days</option>
+				
+		   	   		<option value="21">21 days</option>
+				
+		   	   		<option value="22">22 days</option>
+				
+		   	   		<option value="23">23 days</option>
+				
+		   	   		<option value="24">24 days</option>
+				
+		   	   		<option value="25">25 days</option>
+				
+		   	   		<option value="26">26 days</option>
+				
+		   	   		<option value="27">27 days</option>
+				
+		   	   		<option value="28">28 days</option>
+				
+		   	   		<option value="29">29 days</option>
+				
+		   	   		<option value="30">30 days</option>
+				
+		   	   		<option value="31">31 days</option>
+				
+			</select>
+												
+											
+										</div>
+										<div id="mobile-submit-box-2" class="mobile-plan-submit-box">
+											<button class="tier-select-click-tracking" data-options='{"price":"4.95","name":"Tier2"}' type="submit"> 
+												<em>
+												
+													
+													
+														select
+													
+												
+												</em>
+											</button>			
+										</div>
+										<input type="hidden" name="LSP_URL" value="https://www.ethostream.com/CentralAuth/marriottv3/?url=&amp;ip=172.20.6.180&amp;iface=vlan1000&amp;mac=40%3A25%3Ac2%3Aca%3A5d%3A90&amp;siteid=56942&amp;portal=&amp;at=marriottv3&amp;ad=1440&amp;authandconnect=1" />											
+									</form>
+								</div>
+												
+							<div class="options-link mobile-options-link">
+								<a class="access-code-click-tracking" href="/einterface/hsiaAuthenticateV3.mi?PROPERTY_CODE=STLRD&iZONE=GUEST&iRELEASE=3&AUTH_ON_FREE=FALSE&SCREEN_ID=SC_ACCESS_CODE&ACCESS_CODE=TRUE&LSP_URL=https%3A%2F%2Fwww.ethostream.com%2FCentralAuth%2Fmarriottv3%2F%3Furl%3D%26ip%3D172.20.6.180%26iface%3Dvlan1000%26mac%3D40%253A25%253Ac2%253Aca%253A5d%253A90%26siteid%3D56942%26portal%3D%26at%3Dmarriottv3%26ad%3D1440%26authandconnect%3D1"><em>connect with an&nbsp;access code</em></a>
+								
+									<span>already purchased?</span>
+									<a class="add-device-click-tracking" href="/einterface/hsiaAuthenticateV3.mi?PROPERTY_CODE=STLRD&iZONE=GUEST&iRELEASE=3&AUTH_ON_FREE=FALSE&SCREEN_ID=SC_SIGNIN&ADD_DEVICE=TRUE&LSP_URL=https%3A%2F%2Fwww.ethostream.com%2FCentralAuth%2Fmarriottv3%2F%3Furl%3D%26ip%3D172.20.6.180%26iface%3Dvlan1000%26mac%3D40%253A25%253Ac2%253Aca%253A5d%253A90%26siteid%3D56942%26portal%3D%26at%3Dmarriottv3%26ad%3D1440%26authandconnect%3D1"><em>add a device&nbsp;to your connection</em></a>
+									
+								
+							</div>
+						
+					
+				
+			
+		</div>	
+	</div>	
+	
+
+
+
+
+
+
+<!--[if lte IE 8]>
+	<input id="js-browser" type="hidden" name="browser" value="ie8" />		
+<![endif]-->
+<div id="footer">
+<p>
+	
+		
+	
+
+		
+			* Billed to your room.			
+		
+		
+			
+			
+			
+				<span>Qualifying corporate and group customers may receive discounted Internet as part of their contract. Rewards Gold and Platinum Elite members receive complimentary Enhanced High Speed Internet access as part of their Elite benefits.</span> 				
+			
+			
+			
+			
+		
+		
+			
+			
+				
+			
+			<span id="js-terms">Applicable charges will be adjusted prior to departure. By selecting a connection option, you accept our <a id="terms-of-use" href="/marriott/internet-access/termsofuse.mi">terms of use</a>.</span>			
+			
+</p>
+</div>	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<input type="hidden" name="omniSiteTrackingOn" value="true" id="omniSiteTrackingOn" />
+
+	
+	
+	<input type="hidden" name="moduleTrackingOn" value="true" id="moduleTrackingOn" />
+	
+	
+  	
+	<input type="hidden" name="siteTrackingReportSuite" value="prod" id="siteTrackingReportSuite" />
+	<input type="hidden" name="omniSiteLocale" value="US" id="omniSiteLocale" />
+	<input type="hidden" name="omniglobalSiteLanguage" value="en" id="omniglobalSiteLanguage" />
+	<input type="hidden" name="isReservationSite" value="true" id="isReservationSite" />
+	
+		 
+	
+	<input type="hidden" name="analyze-unspecified-links" value="false" id="analyze-unspecified-links" />
+	 
+	
+	<script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/dwr';JAWR.dwr_scriptSessionId='2FEB9FC53AB7F27EE662F6456EE969C8';JAWR.app_context_path='';</script>
+<script type="text/javascript" src="/miJSPath/929742074/bundles/sitecatalystlib.js" ></script>
+
+	
+ 	
+  	     
+  	                                         
+  	
+	
+	
+	
+	
+	
+
+	
+	
+    
+	
+	
+	
+		
+		
+	
+	<input type="hidden" name="omniRememAuthen" value="false" id="omniRememAuthen" />
+	
+	
+	
+	
+	
+	
+	
+	
+    
+	
+	
+	
+	
+	<input type="hidden" id="omniCustomPages" value="" />
+	
+	
+	
+	
+	<input type="hidden" name="omniEvars" value="0=,41=US,67=Tier1 Display=0.00:Tier2 Display=4.95|Currency=USD,68=Display=Tier1:Tier2|Zone:GUEST
+					,69=stlrd" id="omniEvars" />
+	<input type="hidden" name="omniProps" value="0=,5=US" id="omniProps" />
+	<input type="hidden" name="omniEvents" value=",event28" id="omniEvents" />
+	<input type="hidden" name="iata" value="" id="iata" />
+	
+	<input type="hidden" value="0" id="ctc-search-count" />	
+	
+	
+		
+		
+			
+			
+			
+		
+	
+	<script type="text/javascript"  src="/common/js/OmnitureTrackingJS/omniTrackHSIAV3.js"></script>
+    
+    
+     
+   
+   <input type="hidden" name="personalizedOmniParamList" value="" id="personalizedOmniParamList" /> 
+   
+   <script type="text/javascript" src="/miJSPath/1230914371/common/js/OmnitureTrackingJS/omniTrackRun.js" ></script>
+
+   
+
+
+</body>			
